@@ -1,0 +1,4 @@
+neonize==0.1.0
+asyncio>=3.4.3
+logging
+protobuf>=4.21.0
