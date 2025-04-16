@@ -1,5 +1,6 @@
 # 🤖 WhatsApp Echo Bot
 
+![Nyobain](https://blog.classy.id/upload/gambar_berita/a5862f2b0d1d488fdd61ba06e73ff5af_20250416135235.png)
 
 ## ✨ Fitur
 - Echo otomatis untuk semua jenis pesan
